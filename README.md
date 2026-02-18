@@ -1,7 +1,7 @@
 ## Hi 👋I'm Chithrashree P
 
 # 💫 About Me:
-🔭 I’m currently JAVA Full Stack Trainer at Dhee Coding Lab<br>👯 I’m looking to collaborate on Full stack projects<br>🌱 I’m aspiring to work as software developer<br>💬 Ask me about something ....<br>
+🔭 I’m currently working at Virtusa onsylting services Pvt Ltd in Chennai as a Associate Engineer <br>👯Learning new technologies <br>🌱 working on Agentic AI<br>💬 Ask me about something ....<br>
 
 
 ## 🌐 Socials:
