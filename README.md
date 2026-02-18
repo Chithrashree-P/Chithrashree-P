@@ -1,7 +1,7 @@
 ## Hi 👋I'm Chithrashree P
 
 # 💫 About Me:
-🔭 I’m currently working at Virtusa onsylting services Pvt Ltd in Chennai as a Associate Engineer <br>👯Learning new technologies <br>🌱 working on Agentic AI<br>💬 Ask me about something ....<br>
+🔭 I’m currently working at Virtusa Consulting services Pvt Ltd in Chennai as a Associate Engineer <br>👯Learning new technologies <br>🌱 working on Agentic AI<br>💬 Ask me about something ....<br>
 
 
 ## 🌐 Socials:
